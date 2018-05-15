@@ -1,0 +1,94 @@
+#intro{
+    padding-top: 15px;
+    opacity: .8;
+    width: 100%;
+    height: 100vh;
+}
+
+
+h1{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+p {
+    font-family: 'Lato';
+    font-style: normal;
+    line-height: 1.7;
+}
+
+#navbar{
+    /* border: black 1px solid; */
+    padding-top: 10px;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#intro li{
+    display: inline;
+    font-family: Georgia;
+    margin-right: 75px;
+}
+
+#intro a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#intro video{
+    width: 100%;
+    /* height: 80vh; */
+}
+
+#about-me{
+    height: 100vh;
+    width: 100%;
+    /* background-color: black; */
+}
+
+#img-section img{
+    height: 100vh;
+    display: inline-block;
+    float: left;
+}
+
+#text-section{
+    /* border: red 1px solid; */
+    margin-top: 190px;
+    float: right;
+    width: 50%;
+    display: inline-block;
+    padding: 0px 30px;
+}
+
+#text-section h3{
+    color: #f52823;
+    font-family: Georgia;
+    font-weight: 900;
+    text-align: center;
+    font-size: 28px;
+
+}
+
+
+#services{
+    height: 100vh;
+    width: 100%;
+    /* background-color: black; */
+}
+
+
+#training img{
+    float:right;
+    height: 100vh;
+}
